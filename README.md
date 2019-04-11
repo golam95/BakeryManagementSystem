@@ -1,3 +1,3 @@
 
-</br></br></br></br></br>
-<img src="BakeryManagementSystem/img/bakery1.PNG">
+</br></br></br>
+<img src="BakeryManagement System/img/bakery1.PNG">
